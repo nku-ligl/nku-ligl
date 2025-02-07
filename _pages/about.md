@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a second-year master's student at Nankai University. My current work involves learning with noisy long - tailed data and the mathematical reasoning ability of large language models (LLMs). I used to be a mediocre yet passionate ACMer.
 
-**Email:** guoliang_li@mail.nankai.edu.cn/CSDN/Github
+**Email:** guoliang_li@mail.nankai.edu.cn/[CSDN](https://i.csdn.net/#/user-center/profile?spm=1000.2115.3001.5111)/[Github](https://github.com/nku-ligl)
 
 News
 ======
@@ -18,7 +18,7 @@ News
 
 Selected Publications
 ======
-DSDIR: A Two-Stage Method for Addressing Noisy Long-Tailed Problems in Malicious Traffic Detection [paper] [code]
+DSDIR: A Two-Stage Method for Addressing Noisy Long-Tailed Problems in Malicious Traffic Detection [paper] [code](https://github.com/nku-ligl/DSDIR)
 
 **Guoliang Li**, Ruiqi Zhang, Zhe Sun, Lingkai Xing, Yu Zhang
 
