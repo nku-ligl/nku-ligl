@@ -13,12 +13,13 @@ I'm a second-year master's student at Nankai University. My current work involve
 
 News
 ======
-[2024-11] One paper was accepted to ICASSP 2025 (CCF-B, conference).
+[2024-11] One paper was accepted to ICASSP 2025 (CCF-B conference).
 
 
 Selected Publications
 ======
 DSDIR: A Two-Stage Method for Addressing Noisy Long-Tailed Problems in Malicious Traffic Detection [paper] [code]
+
 **Guoliang Li**, Ruiqi Zhang, Zhe Sun, Lingkai Xing, Yu Zhang
 
 Awards
@@ -36,6 +37,7 @@ Experience
 Nankai University, Tianjin, China   2023/09 - 2026/06
 
 M.S. Student in college of cyber science
+
 Qingdao Univeristy, Qingdao, China 2019/09 - 2023/06
 
 Undergraduate Student in college of computer science
