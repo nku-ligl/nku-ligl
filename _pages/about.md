@@ -8,34 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
+
 I’m a full-time senior algorithm engineer. My current work mainly includes on-device LLM & VLM development and accelerating for autonomous vehicles and smart home devices. I am also keen on creating interesting applications using AIGC. Before I joined the industry, I worked on computer vision during my PhD (I was selected as one of the world’s [top 2% research scientists](https://topresearcherslist.com/Home/Search?AuthFull=tang%2C+kaihua)), and mobile game development during my Master (I developed two indie IOS games in 2015 and also took an internship at miHoYo in 2017). **My lifelong dream is to contribute to the development of world-changing products that benefit millions of people.**
 
 I received my Ph.D. degree from the School of Computer Science and Engineering at Nanyang Technological University in 2021, dual-master degrees in Computer Science from the joint programme of Shanghai Jiao Tong University and Waseda University in 2018, and B.E. degree in Computer Science from the IEEE Pilot Class at Shanghai Jiao Tong University (SJTU) in 2015.
-
-## News
-- **[Seq. 2024]** I was selected as one of [the world’s top 2% scientists (7566 out of 399064 in Artificial Intelligence)](https://topresearcherslist.com/Home/Search?AuthFull=tang%2C+kaihua).
-- **[Mar. 2024]** I received the Outstanding New Employee Award 2023 & Future Star Award 2023 of SRC.
-- **[Oct. 2023]** Our developed on-device LLM for smart home terminals was released at the China Mobile Global Partners Conference 2023.
-- **[Sep. 2023]** One Paper was accepted to NeurIPS 2023.
-- **[Jul. 2022]** We are organizing the [2st Causality in Vision Workshop](http://www.causalityinvision.com/) at ECCV 2022.
-- **[Jul. 2022]** I was recognized as an [outstanding reviewer (Top 10%)](https://icml.cc/Conferences/2022/Reviewers) for ICML 2022.
-- **[Jul. 2022]** Three Papers (One Oral) were accepted to ECCV 2022.
-- **[Dec. 2021]** I passed my Ph.D. thesis defense. Thanks for all the helps in the past 3 years.
-- **[May. 2021]** I received the Silver Award in [2021 PREMIA Best Student Paper Award](http://www.premiasg.org/for-members/premia-best-student-paper-awards/premia-best-student-paper-awards-2021/).
-- **[Mar. 2021]** I received the [2021 Alibaba Outstanding Interns in Academic Cooperation](https://azft.alibaba.com/newspage/?id=170) award.
-- **[Mar. 2021]** We organized the [1st Causality in Vision Workshop](http://www.causalityinvision.com/civ2021.html) at CVPR 2021.
-- **[Jan. 2021]** Two Papers were accepted to CVPR 2021.
-
-## Selected Publications [Google Scholar](https://scholar.google.com/citations?user=WuO1sSkAAAAJ&hl=en)
-- **Title**: [Invariant Feature Learning for Generalized Long-Tailed Classification](https://arxiv.org/pdf/2207.09504.pdf)
-  - **Authors**: **Kaihua Tang**, Mingyuan Tao, Jiaxin Qi, Zhenguang Liu, Hanwang Zhang
-  - **Conference**: *European Conference on Computer Vision **(ECCV)**, 2022.*
-  - **Links**: 
-    - [PDF](https://arxiv.org/pdf/2207.09504.pdf)
-    - [Code](https://github.com/KaihuaTang/Generalized-Long-Tailed-Benchmarks.pytorch)
-    - [Project Page](https://kaihuatang.github.io/Generalized-Long-Tailed-Benchmarks.pytorch/)
-    - [BibTex](https://dblp.uni-trier.de/rec/conf/eccv/TangTQLZ22.html?view=bibtex)
 
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
