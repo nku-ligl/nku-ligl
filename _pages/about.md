@@ -1,3 +1,13 @@
+
+---
+permalink: /
+title: "About Me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 ## About Me
 I’m a full-time senior algorithm engineer. My current work mainly includes on-device LLM & VLM development and accelerating for autonomous vehicles and smart home devices. I am also keen on creating interesting applications using AIGC. Before I joined the industry, I worked on computer vision during my PhD (I was selected as one of the world’s [top 2% research scientists](https://topresearcherslist.com/Home/Search?AuthFull=tang%2C+kaihua)), and mobile game development during my Master (I developed two indie IOS games in 2015 and also took an internship at miHoYo in 2017). **My lifelong dream is to contribute to the development of world-changing products that benefit millions of people.**
 
@@ -27,14 +37,6 @@ I received my Ph.D. degree from the School of Computer Science and Engineering a
     - [Project Page](https://kaihuatang.github.io/Generalized-Long-Tailed-Benchmarks.pytorch/)
     - [BibTex](https://dblp.uni-trier.de/rec/conf/eccv/TangTQLZ22.html?view=bibtex)
 
----
-permalink: /
-title: "About Me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
